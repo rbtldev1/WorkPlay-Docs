@@ -4,7 +4,7 @@
 
 ### What is WorkPlay ?
 
-Workplay is a community of people with a productive mindset. These people believe in personal growth alongside the growth of their peers.
+WorkPlay is a community of people with a productive mindset. These people believe in personal growth alongside the growth of their peers.
 
 ### Who is the team behind WorkPlay ?
 
@@ -13,7 +13,7 @@ Rahul Bhatia & a few others. (List to be updated soon)
 ### What is the benefit of using WorkPlay ?
 
 WorkPlay enables people to:
-- Get knowledge and perspective
+- Get knowledge and perspective on a variety of topics
 - Building connections for possible future collaboration
 - Express their individuality and share knowledge, oppourtunities etc.
 
