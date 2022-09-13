@@ -21,13 +21,13 @@ Rahul Bhatia & a few others. (List to be updated soon)
 ### What is the benefit of using WorkPlay ?
 
 WorkPlay enables people to:
-- Get knowledge and perspective on a variety of topics
+- Get access to knowledge and perspective on a variety of topics
 - Building connections for possible future collaboration
-- Express their individuality and share knowledge, oppourtunities etc.
+- Express their individuality and share knowledge, opportunities etc.
 
 ### Who is WorkPlay for ?
 
-WorkPlay is for anyone that wants to be associated with people who consider themselves as productive and are keen to learn forever.
+WorkPlay is for anyone who wants to be associated with people who consider themselves as productive and are keen to learn forever.
 
 ### How do I get involved ?
 
@@ -35,9 +35,7 @@ The first step could be to join the following:
 1) [WorkPlay club on clubhouse](https://www.clubhouse.com/club/work-play)
 2) [WorkPlay believers group on telegram](https://t.me/+a6QlpxhbLSlkMWE1)
 
-
 ---
-
 
 ## Specific concepts
 
@@ -56,15 +54,26 @@ Discussion rooms add an additional layer of a healthy back & forth discussion on
 
 ### What kind of rooms exist at WorkPlay ?
 
-1. Lobby
-2. Focus
-3. Discussion
-4. Opinion
+There are 4 main types of rooms at WorkPlay:
 
 #### Lobby
+
+A lobby is a chillout room. Members can relax, speak their heart out, recommend stuff to each other.
+Multiple lobby's can run simultaneously.
+The first 2 [mods](#mods) generally decide the conduct of the lobby.
+
 #### Focus
+
+A focus room is generally a quieter version of a lobby. Members can be part of a focus room when they expect less interaction but still want to be around others who are working on high-concentration tasks.
+
 #### Discussion
+
+A discussion room is a place to have a healthy discussion over a specific topic or question.
+
 #### Opinion
+
+An opinion room is a place to gather perspecives from various speakers on a specific topic or question.
+Generally there is no back & forth when gathering opinions so that people can speak freely in a reasonable timeframe.
 
 ---
 
@@ -75,3 +84,18 @@ WorkPlay will be executed in 4 major phases:
 2. Phase B - Usage from web or clubhouse
 3. Phase C (TBD)
 4. Phase D (TBD)
+
+---
+
+## Glossary
+
+### Mods
+
+A mod is a facilitator of good quality conversation at WorkPlay.
+They generally help the audience come up to the stage and intervene as and when required to keep the discussion civil & productive.
+
+Mods have the following authority:
+- To bring a new speaker on panel
+- To remove an abusive speaker from the room
+- To mute an existing speaker, if needed
+- To move an existing speaker to audience, if needed
